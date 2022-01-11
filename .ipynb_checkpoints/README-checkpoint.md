@@ -1,3 +1,0 @@
-# DockerTest
-
-Prueba de cambio
